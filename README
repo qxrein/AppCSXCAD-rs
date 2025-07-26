@@ -2,6 +2,6 @@
 * AppCSXCAD - Minimal Application using the QCSXCAD library
 *
 
-AppCSXCAD is a minimal application using the QCSXCAD library.
+AppCSXCAD-rs is a minimal application using the QCSXCAD library, with rewrite in rust.
 AppCSXCAD is licensed under the terms of the GPLv3.
 
